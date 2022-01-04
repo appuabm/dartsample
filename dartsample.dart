@@ -29,4 +29,7 @@ void main() {
 
   var age = true;
   print(age.runtimeType);
+
+  print(age.tostring());
+  print(age.tonum());
 }
